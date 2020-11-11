@@ -1,2 +1,2 @@
-# Diva-Maps-w-Mapbox
+# Diva-Maps-(w)-Mapbox
 Maps Build with Mapbox in realtime usage
