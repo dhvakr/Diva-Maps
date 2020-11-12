@@ -57,7 +57,7 @@ function setupMap(center)
     'type': 'Feature',
     'properties': 
       {
-      'message': 'Hye ! Please Feel Free to Provide Feedback ☻ '+'Have a Nice Day' + '\n\n- BY DIVA', 
+      'message': 'Hyee ! Please Feel Free to Provide Feedback ☻ '+'Have a Nice Day' + '\n\n- BY DIVA', 
       'iconSize': [45, 45]
       },
     'geometry': 
