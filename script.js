@@ -12,7 +12,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZGh2YWtyIiwiYSI6ImNraGRjdmJ3MzAzdm8zM3BqenFxY
     }
     function errorLocation()
     {
-      setupMap([78.6569,11.1271]) // Setting Tamilnadu coordinates to show, INCASE OF LOCATION ERROR
+      setupMap([78.6569,11.1271]) // Setting Tamilnadu coordinates, INCASE OF LOCATION ERROR
     }
 
 function setupMap(center)
