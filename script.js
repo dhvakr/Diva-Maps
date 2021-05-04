@@ -16,7 +16,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZGh2YWtyIiwiYSI6ImNraGRjdmJ3MzAzdm8zM3BqenFxY
     }
 
 function setupMap(center)
-{
+{ 
     var map = new mapboxgl.Map(
      {
       container : 'map',
@@ -57,7 +57,7 @@ function setupMap(center)
     'type': 'Feature',
     'properties': 
       {
-      'message': 'Hyee ! Please Feel Free to Provide Feedback ☻ '+'Have a Nice Day' + '\n\n- BY DIVA', 
+      'message': 'Heyy ! Please Feel Free to Provide Feedback ☻ '+'Have a Nice Day' + '\n\n- BY DIVA', 
       'iconSize': [45, 45]
       },
     'geometry': 
